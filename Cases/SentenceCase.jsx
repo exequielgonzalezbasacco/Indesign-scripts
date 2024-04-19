@@ -1,2 +1,2 @@
 var seleccionado = app.selection[0];
-seleccionado.changecase(ChangeCaseMode.SENTENCECASE);
+seleccionado.changecase(ChangecaseMode.SENTENCECASE);
