@@ -20,8 +20,6 @@ var paginas = app.selection[0].parentStory.textContainers;
   var masters = getMasters(doc);
   dialog(estilos, masters);
   if (master !== false) {
-    alert(master);
-    alert(estiloCapitulo);
 
     for (i = 0; i < paginas.length; i++) {
 
